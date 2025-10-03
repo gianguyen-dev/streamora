@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "streamora",
+            "username": "admin",
+            "password": "123456",
+            "name": "Servers",
+            "group": "Local Dev"
+        }
+    ]
+}
